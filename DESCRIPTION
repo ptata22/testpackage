@@ -1,0 +1,11 @@
+Package: testpackage
+Type: Package
+Title: Test New R packages
+Version: 0.1.0
+Author: kumar
+Maintainer: The package maintainer <rlanguage22@gmail.com>
+Description: Test New R packages.
+License: GPL-3 
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
