@@ -2,6 +2,7 @@
 output: github_document
 ---
 [![Travis build status](https://travis-ci.com/ptata22/testpackage.svg?branch=master)](https://travis-ci.com/ptata22/testpackage)
+[![AppVeyor build status](https://ci.appveyor.com/api/projects/status/github/ptata22/testpackage?branch=master&svg=true)](https://ci.appveyor.com/project/ptata22/testpackage)
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
