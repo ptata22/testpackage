@@ -2,4 +2,9 @@
 
 language: R
 cache: packages
+warnings_are_errors: true
 
+r:
+  -3.4
+  -release
+  -devel
