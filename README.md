@@ -1,4 +1,7 @@
 
+[![Travis build
+status](https://travis-ci.com/ptata22/testpackage.svg?branch=master)](https://travis-ci.com/ptata22/testpackage)
+
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
 # testpackage
