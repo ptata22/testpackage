@@ -16,3 +16,4 @@ printer = function(r,x){
   print (head(x))
   return(x)
 }
+

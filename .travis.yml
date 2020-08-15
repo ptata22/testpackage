@@ -9,6 +9,6 @@ os:
   -osx
 
 r:
-  -3.5
+  -3.4
   -release
   -devel
