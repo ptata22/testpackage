@@ -9,6 +9,6 @@ os:
   -osx
 
 r:
-  -oldrel
+  -3.5
   -release
   -devel
