@@ -1,4 +1,4 @@
-#' @title AE data for Analysis
+#' @title DM data for Analysis
 #'
 #' @description A simple \code{tibble}
 #'
@@ -16,4 +16,4 @@
 
 "ae"
 
-"dm"
+
