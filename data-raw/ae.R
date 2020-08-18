@@ -10,3 +10,8 @@ usethis:: use_data (ae , compress = "xz" )
 dm<- sasxport.get("dm.xpt")
 
 usethis:: use_data (dm , compress = "xz" )
+
+cm<- sasxport.get("cm.xpt")
+
+usethis:: use_data (cm , compress = "xz" )
+
